@@ -35,5 +35,4 @@ A management application for handling laundry and gym business operations, inclu
 
 ## Connect
 
-- Website: [christianhizon.web.app](https://christianhizon.web.app)
-- GitHub: [ChristianGerardHizon](https://github.com/ChristianGerardHizon)
+- Website: [christianhizon.hznsystems.com](https://christianhizon.hznsystems.com)
